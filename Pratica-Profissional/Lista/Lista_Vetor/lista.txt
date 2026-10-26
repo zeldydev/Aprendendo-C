@@ -1,0 +1,28 @@
+EXERCÍCIO 1 — MOSTRAR OS VALORES
+
+Crie um programa em C que leia 6 números inteiros, armazene todos em um vetor e, depois da leitura, mostre os 6 números na mesma ordem em que foram digitados.
+
+
+EXERCÍCIO 2 — ORDEM INVERSA
+
+Crie um programa em C que leia 5 números inteiros e os armazene em um vetor. Depois, mostre os valores na ordem inversa. Exemplo: se forem digitados 2, 4, 6, 8 e 10, a saída deverá ser 10, 8, 6, 4 e 2.
+
+
+EXERCÍCIO 3 — SOMA DOS NÚMEROS
+
+Crie um programa em C que leia 6 números inteiros, armazene-os em um vetor e mostre a soma de todos os valores.
+
+
+EXERCÍCIO 4 — NÚMEROS PARES
+
+Crie um programa em C que leia 8 números inteiros e os armazene em um vetor. Depois, mostre quantos dos números digitados são pares.
+
+
+EXERCÍCIO 5 — NOTAS DA TURMA
+
+Crie um programa em C que leia as notas de 5 alunos e as armazene em um vetor. Calcule e mostre a média da turma. Depois, mostre quantas notas ficaram acima ou iguais à média calculada.
+
+
+EXERCÍCIO 6 — MAIOR VALOR
+
+Crie um programa em C que leia 7 números inteiros e os armazene em um vetor. Depois, mostre o maior número digitado e a posição em que ele foi guardado no vetor. Considere que as posições começam em 0.
